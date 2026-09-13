@@ -31,10 +31,11 @@
 .footer-social-title {
   margin-bottom: 16px;
 
-  color: #ffffff;
+  color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 500;
+  letter-spacing: 0.02em;
 }
 
 .footer-social-list {
@@ -52,7 +53,7 @@
 
   border-radius: 50%;
 
-  color: #ffffff;
+  color: #f4f4fd;
   background-color: #4d5ae5;
 
   transition:
